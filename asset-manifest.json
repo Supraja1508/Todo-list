@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Supraja1508/Todo-list.git/static/css/main.f855e6bc.css",
-    "main.js": "/Supraja1508/Todo-list.git/static/js/main.24bb0df6.js",
-    "static/js/453.4969f07b.chunk.js": "/Supraja1508/Todo-list.git/static/js/453.4969f07b.chunk.js",
-    "index.html": "/Supraja1508/Todo-list.git/index.html",
-    "main.f855e6bc.css.map": "/Supraja1508/Todo-list.git/static/css/main.f855e6bc.css.map",
-    "main.24bb0df6.js.map": "/Supraja1508/Todo-list.git/static/js/main.24bb0df6.js.map",
-    "453.4969f07b.chunk.js.map": "/Supraja1508/Todo-list.git/static/js/453.4969f07b.chunk.js.map"
+    "main.css": "/Todo-list/static/css/main.f855e6bc.css",
+    "main.js": "/Todo-list/static/js/main.9337d8e5.js",
+    "static/js/453.4969f07b.chunk.js": "/Todo-list/static/js/453.4969f07b.chunk.js",
+    "index.html": "/Todo-list/index.html",
+    "main.f855e6bc.css.map": "/Todo-list/static/css/main.f855e6bc.css.map",
+    "main.9337d8e5.js.map": "/Todo-list/static/js/main.9337d8e5.js.map",
+    "453.4969f07b.chunk.js.map": "/Todo-list/static/js/453.4969f07b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.24bb0df6.js"
+    "static/js/main.9337d8e5.js"
   ]
 }
