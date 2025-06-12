@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>To-Do List</h1>
+      <h1><center>To-Do List</center></h1>
       <div className="input-container">
         <input
           type="text"
